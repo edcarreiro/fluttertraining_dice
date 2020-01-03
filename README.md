@@ -13,6 +13,7 @@ Just click in one of two dices to rolling. You will receive a new result every t
 
 I will improve this app in the future!
 
+![Screenshot](images/ScreenShot.png "App screenshot")
 
 
 ### A few resources to get you started if this is your first Flutter project:
